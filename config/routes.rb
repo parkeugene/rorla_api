@@ -12,7 +12,7 @@ RorlaApi::Application.routes.draw do
 
   resources :questions, only: [ :index, :show, :create, :update, :destroy ]
    
-  match '/events/sync/:key', :to => 'events#sync', :via =>[:get]
+  match '/events/sync/:token', :to => 'events#sync', :via =>[:get]
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
