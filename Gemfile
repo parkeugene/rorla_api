@@ -36,6 +36,9 @@ group :test do
   gem "launchy", "~> 2.3.0"
   gem "selenium-webdriver", "~> 2.35.1"
   gem "shoulda-matchers"
+  gem "webmock"
+  gem "vcr"
+  gem "sinatra"
 end
 
 # 모델관계를 깔끔하게 다이어그램으로 그려줍니다. PDF출력 제공

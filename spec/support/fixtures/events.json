@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "name": "제60회 ROR Lab.", 
+      "start_time": "2014-04-29T20:00:00+0900", 
+      "end_time": "2014-04-29T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "226561887541773"
+    }, 
+    {
+      "name": "제59회 ROR Lab.", 
+      "start_time": "2014-04-15T20:00:00+0900", 
+      "end_time": "2014-04-15T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "1467746593454865"
+    }, 
+    {
+      "name": "제58회 ROR Lab.", 
+      "start_time": "2014-04-01T20:00:00+0900", 
+      "end_time": "2014-04-01T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "216105198588300"
+    }, 
+    {
+      "name": "제57회 ROR Lab.", 
+      "start_time": "2014-03-18T20:00:00+0900", 
+      "end_time": "2014-03-18T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "1449827871917192"
+    }, 
+    {
+      "name": "제56회 ROR Lab.", 
+      "start_time": "2014-03-04T20:00:00+0900", 
+      "end_time": "2014-03-04T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "197843123758360"
+    }, 
+    {
+      "name": "제55회 ROR Lab.", 
+      "start_time": "2014-02-18T20:00:00+0900", 
+      "end_time": "2014-02-18T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "602861886468273"
+    }, 
+    {
+      "name": "제54회 ROR Lab.", 
+      "start_time": "2014-02-04T20:00:00+0900", 
+      "end_time": "2014-02-04T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "578264848910310"
+    }, 
+    {
+      "name": "제53회 ROR Lab.", 
+      "start_time": "2014-01-21T20:00:00+0900", 
+      "end_time": "2014-01-21T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "1444848972398246"
+    }, 
+    {
+      "name": "ROR Lab. 웹사이트 리뉴얼 킥업 치맥 파티", 
+      "start_time": "2014-01-14T19:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "금강바비큐 http://me2.do/xhm3CjnN", 
+      "id": "278716895586298"
+    }, 
+    {
+      "name": "제52회 ROR Lab.", 
+      "start_time": "2014-01-07T20:00:00+0900", 
+      "end_time": "2014-01-07T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "555358147886924"
+    }, 
+    {
+      "name": "제51회 ROR Lab.", 
+      "start_time": "2013-12-17T20:00:00+0900", 
+      "end_time": "2013-12-17T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "1441562226066432"
+    }, 
+    {
+      "name": "제50회 ROR Lab.", 
+      "start_time": "2013-12-03T20:00:00+0900", 
+      "end_time": "2013-12-03T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "525096094253574"
+    }, 
+    {
+      "name": "ROR Lab. 50회 기념 치맥 파티", 
+      "start_time": "2013-11-19T19:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "금강치킨 http://www.kkbbq.co.kr", 
+      "id": "185921001598775"
+    }, 
+    {
+      "name": "제49회 ROR Lab.", 
+      "start_time": "2013-11-05T20:00:00+0900", 
+      "end_time": "2013-11-05T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "654503087913492"
+    }, 
+    {
+      "name": "제48회 ROR Lab", 
+      "start_time": "2013-10-22T20:00:00+0900", 
+      "end_time": "2013-10-22T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "593940630665679"
+    }, 
+    {
+      "name": "제47회 ROR Lab", 
+      "start_time": "2013-10-08T20:00:00+0900", 
+      "end_time": "2013-10-08T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "1417097788513935"
+    }, 
+    {
+      "name": "제46회 ROR Lab", 
+      "start_time": "2013-09-24T20:00:00+0900", 
+      "end_time": "2013-09-24T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "401459199977570"
+    }, 
+    {
+      "name": "제45회 ROR Lab", 
+      "start_time": "2013-09-10T20:00:00+0900", 
+      "end_time": "2013-09-10T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "526674107405153"
+    }, 
+    {
+      "name": "제44회 ROR Lab.", 
+      "start_time": "2013-08-27T20:00:00+0900", 
+      "end_time": "2013-08-27T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "221949164627790"
+    }, 
+    {
+      "name": "제43회 ROR Lab", 
+      "start_time": "2013-08-13T20:00:00+0900", 
+      "end_time": "2013-08-13T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "497597986986363"
+    }, 
+    {
+      "name": "제42회 ROR Lab.", 
+      "start_time": "2013-07-30T20:00:00+0900", 
+      "end_time": "2013-07-30T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "130819057128152"
+    }, 
+    {
+      "name": "제41회 ROR Lab.", 
+      "start_time": "2013-07-16T20:00:00+0900", 
+      "end_time": "2013-07-16T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "481493738602589"
+    }, 
+    {
+      "name": "제40회 ROR Lab.", 
+      "start_time": "2013-07-02T20:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "383188695119880"
+    }, 
+    {
+      "name": "제39회 ROR Lab.", 
+      "start_time": "2013-06-18T20:00:00+0900", 
+      "end_time": "2013-06-18T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "181177602042726"
+    }, 
+    {
+      "name": "제38회 ROR Lab.", 
+      "start_time": "2013-06-04T20:00:00+0900", 
+      "end_time": "2013-06-04T22:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "527815370588343"
+    }, 
+    {
+      "name": "제37회 ROR Lab.", 
+      "start_time": "2013-05-25T10:00:00+0900", 
+      "end_time": "2013-05-25T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "480558265351152"
+    }, 
+    {
+      "name": "제36회 ROR Lab.", 
+      "start_time": "2013-05-11T10:00:00+0900", 
+      "end_time": "2013-05-11T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "토즈 강남2호점", 
+      "id": "284962498305331"
+    }, 
+    {
+      "name": "제35회 ROR Lab.", 
+      "start_time": "2013-04-27T10:00:00+0900", 
+      "end_time": "2013-04-27T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "강남 토즈 2호점", 
+      "id": "472596899480124"
+    }, 
+    {
+      "name": "제34회 ROR Lab.", 
+      "start_time": "2013-04-13T10:00:00+0900", 
+      "end_time": "2013-04-13T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "\t 역삼동 PMK빌딩 12층 ReALLPlay 회의실", 
+      "id": "318294604965282"
+    }, 
+    {
+      "name": "제33회 ROR Lab.", 
+      "start_time": "2013-03-30T10:00:00+0900", 
+      "end_time": "2013-03-30T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "역삼동 PMK빌딩 12층 ReALLPlay 회의실", 
+      "id": "495301573865575"
+    }, 
+    {
+      "name": "제32회 ROR Lab.", 
+      "start_time": "2013-03-16T10:00:00+0900", 
+      "end_time": "2013-03-16T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "역삼동 PMK 빌딩 12층 ReALLPlay 회의실", 
+      "id": "583247215038692"
+    }, 
+    {
+      "name": "제31회 ROR Lab., 시즌3-1 / AP 1-1", 
+      "start_time": "2013-03-02T10:00:00+0900", 
+      "end_time": "2013-03-02T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "역삼동 PMK 건물 12층 강의실", 
+      "id": "425150434229279"
+    }, 
+    {
+      "name": "제16회 ROR Lab. 오프라인 강좌", 
+      "start_time": "2013-02-16T10:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "PMK 빌딩 12층 강의실", 
+      "id": "152779641543454"
+    }, 
+    {
+      "name": "제15회 ROR Lab. 오프라인 강좌", 
+      "start_time": "2013-02-02T10:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "PMK 빌딩 12층", 
+      "id": "527750237248943"
+    }, 
+    {
+      "name": "제14회 ROR Lab. 온라인 강좌", 
+      "start_time": "2013-01-12T10:00:00+0900", 
+      "end_time": "2013-01-12T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "location": "CrossFinger", 
+      "id": "407994369281102"
+    }, 
+    {
+      "name": "제13회 ROR Lab. 온라인 강좌", 
+      "start_time": "2012-12-29T10:00:00+0900", 
+      "end_time": "2012-12-29T12:00:00+0900", 
+      "timezone": "Asia/Seoul", 
+      "id": "579045335443963"
+    }
+  ], 
+  "paging": {
+    "cursors": {
+      "after": "NTc5MDQ1MzM1NDQzOTYz", 
+      "before": "MjI2NTYxODg3NTQxNzcz"
+    }
+  }
+}
